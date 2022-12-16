@@ -113,7 +113,7 @@ validate the answers.
 
 ## Live link
 
-Link: https://bit.ly/qagl-project
+Link: https://bit.ly/project-qagl
 
 ### Contributors
 
